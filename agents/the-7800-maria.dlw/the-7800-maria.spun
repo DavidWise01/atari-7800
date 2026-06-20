@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of MARIA
+node 7800 · 7800 · ⟦MARIA:7800:43521e⟧
+
+WHO   — MARIA — sprites by DMA · electrical
+WHAT  — sprites by DMA · electrical
+WHERE — 7800 · ATARI 7800 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The graphics chip that reads display lists and composites many movable objects per scanline via DMA — the 7800's real advance, flicker-free and sprite-heavy.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  sprites by DMA · electrical
+
+spoken token : ri-grae-ve   ·   hex : 43521e
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

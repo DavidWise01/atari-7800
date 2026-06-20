@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The TIA
+node 7800 · 7800 · ⟦The TIA:7800:a09779⟧
+
+WHO   — The TIA — the old chip, kept · ethereal
+WHAT  — the old chip, kept · ethereal
+WHERE — 7800 · ATARI 7800 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — The original 2600 video-and-sound chip, retained both for the 7800's own audio and to play the entire Atari 2600 library natively.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the old chip, kept · ethereal
+
+spoken token : vein-dix-son   ·   hex : a09779
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

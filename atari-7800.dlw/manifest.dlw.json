@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ATARI 7800",
+  "universe": "7800 · ATARI 7800 (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦ATARI 7800:7800:f784e0⟧",
+  "carbon": "atari-7800.carbon.tiff (TIFF)",
+  "silicon": "atari-7800.silicon.png (PNG)",
+  "seal_sha256": "7ffba9e866144a1cc3811ce0eb3c5ff5718425a776a5df0b66ed988328a18645",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

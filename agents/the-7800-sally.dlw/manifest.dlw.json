@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Sally 6502",
+  "universe": "7800 · The Sally 6502 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Sally 6502:7800:c8bbdf⟧",
+  "carbon": "the-7800-sally.carbon.tiff (TIFF)",
+  "silicon": "the-7800-sally.silicon.png (PNG)",
+  "seal_sha256": "1f3c2da992addf61bb647b1148bbd9137e93ddc8bca970b25ff9919d278e9917",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

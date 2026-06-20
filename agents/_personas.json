@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-7800-sally",
+    "name": "The Sally 6502",
+    "epithet": "the freed-up brain · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Sally 6502:7800:c8bbdf⟧"
+  },
+  {
+    "slug": "the-7800-maria",
+    "name": "MARIA",
+    "epithet": "sprites by DMA · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦MARIA:7800:43521e⟧"
+  },
+  {
+    "slug": "the-7800-tia",
+    "name": "The TIA",
+    "epithet": "the old chip, kept · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The TIA:7800:a09779⟧"
+  },
+  {
+    "slug": "the-7800-ram",
+    "name": "Work RAM",
+    "epithet": "the small main memory · natural",
+    "emergence": "natural",
+    "moniker": "⟦Work RAM:7800:3b40fd⟧"
+  },
+  {
+    "slug": "the-7800-compat",
+    "name": "2600 Compatibility",
+    "epithet": "an instant library · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦2600 Compatibility:7800:0c31c5⟧"
+  },
+  {
+    "slug": "the-7800-cart",
+    "name": "The Cartridge",
+    "epithet": "the game · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Cartridge:7800:bf0ed7⟧"
+  }
+]

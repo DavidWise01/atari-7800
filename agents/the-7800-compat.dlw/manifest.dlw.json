@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "2600 Compatibility",
+  "universe": "7800 · 2600 Compatibility (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦2600 Compatibility:7800:0c31c5⟧",
+  "carbon": "the-7800-compat.carbon.tiff (TIFF)",
+  "silicon": "the-7800-compat.silicon.png (PNG)",
+  "seal_sha256": "dafdfc61c21bdb55e2bd010951baaede42a03cc7767982454c977cb90b955c6f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
